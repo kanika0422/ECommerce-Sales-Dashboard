@@ -1,4 +1,4 @@
-1) Title of the project:
+1) Project Title of the project:
 💠ECommerce-Sales-Dashboard
 
 2) Short Description:
@@ -19,6 +19,7 @@
 
 5) Screenshot:
    💠I attached the screenshot of my Dashboard which clear you about my model.
+   https://github.com/kanika0422/ECommerce-Sales-Dashboard/blob/main/Dashboard.png
    
 
    
